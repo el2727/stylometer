@@ -14,5 +14,6 @@ References:
 Install from <a href="https://pypi.org/project/test-updated/">PyPi</a>:
 `pip install stylometer`
 
-
+# Usage examples
+Please see a notebook with usage examples `Example.ipynb`
 
