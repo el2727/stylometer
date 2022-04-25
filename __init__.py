@@ -1,1 +1,1 @@
-from test_updated import test_updated
+from test_updating import test_updating
