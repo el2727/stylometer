@@ -1,5 +1,5 @@
 # Stylometer - writing style analyzer
-This package analyzes the style of a given writing sample using "involved" and "informational" linguistic features. 
+This package analyzes the style of a given writing sample using "involved" and "informational" linguistic features. Related paper using this package: arxiv.org...
 
 The main objective of "involved" features is to build a relationship with a reader, engage or involve a reader in a text; they include pronouns, non-phrasal coordination ("and"), and questions. The main objective of "informational" features is to convey facts and draw attention to the factual information in a text rather than build a relationship with a reader; they include determiners (such as "the", "which", "both", etc.), past tense verbs, and numbers. 
 
