@@ -22,6 +22,7 @@ Install from <a href="https://pypi.org/project/test-updated/">PyPi</a>:
 # Usage examples
 <code>
 from test_updated import test_updated
+  
 text = open("Example_text.txt").read()
 </code>
 
