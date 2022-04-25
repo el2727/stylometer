@@ -10,7 +10,7 @@ References:
     2. Argamon, Shlomo Engelson et al. (2003). “Gender, genre, and writing style in formal written texts.” Third Text 23 (2003): 321-346.
     3. Pennebaker, J. W. (2011). The secret life of pronouns: What our words say about us. New York: Bloomsbury Press.
     
-##### Installation
+# Installation
 Install from <a href="https://pypi.org/project/test-updated/">PyPi</a>:
 `pip install stylometer`
 
