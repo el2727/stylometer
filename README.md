@@ -20,11 +20,9 @@ Install from <a href="https://pypi.org/project/test-updated/">PyPi</a>:
 `pip install stylometer`
 
 # Usage examples
-<pre>
 <code>
 from test_updated import test_updated
 </code>
-</pre>
 
 Please see a notebook with usage examples - `Example.ipynb`
 
