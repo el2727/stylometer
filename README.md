@@ -22,6 +22,19 @@ Install from <a href="https://pypi.org/project/test-updated/">PyPi</a>:
 # Usage examples
 <code>
 from test_updated import test_updated
+text = open("Example.txt").read()
+test.summary()
+Total number of involved features: 46
+Number of pronouns: 22
+Number of questions: 5
+Number of 'and' coordination: 19
+-----------------------------------------------
+Total number of informational features: 108
+Number of determiners: 84
+Number of past tense verbs: 21
+Number of cardinal numbers: 3
+-----------------------------------------------
+Involved-informational ratio: 0.43
 </code>
 
 Please see a notebook with usage examples - `Example.ipynb`
