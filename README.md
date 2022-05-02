@@ -7,7 +7,7 @@ The package calculates the number of "involved" and "informational" features and
 
 These linguistic features are based on the work of Biber (1988), Argamon et al. (2003), Pennebaker (2011).
 
-Related paper with examples of usage for this package: `arxiv.org...`
+Related paper with examples of usage for this package: https://arxiv.org/abs/2204.13805
 
 References:
 1. Biber, Douglas. (1988). Variation across Speech and Writing. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621024
